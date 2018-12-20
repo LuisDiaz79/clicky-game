@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "mario",
+    "url": "./images/birdo.png"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "url": "./images/bowser.png"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "url": "./images/daisy.png"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "url": "./images/luigi.png"
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "url": "./images/mario.png"
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "url": "./images/peach.png"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "url": "./images/toad.png"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "url": "./images/plant.png"
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "url": "./images/waluigi.png"
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "url": "./images/wario.png"
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "url": "./images/yoshi.png"
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "url": "./images/goomba.png"
+  }
+]

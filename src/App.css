@@ -26,11 +26,15 @@
   background-color:#2c323c;
   background-image:url('/images/background.jpeg');
   background-size:cover;
-  color:#fff;
+  color:#000;
   min-height:400px;
   padding:180px 20px;
   padding-bottom:140px;
   text-align:center
+}
+.cardstyle{
+  width: 120px;
+  height: 150px;
 }
 
 @keyframes App-logo-spin {
