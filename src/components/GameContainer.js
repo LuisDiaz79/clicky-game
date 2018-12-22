@@ -77,7 +77,7 @@ class GameContainer extends Component {
         <Row>
           {
             this.state.images.map(element => (
-              <Col key={element.id} size="xs-1 md-3">
+              <Col key={element.id} size="12 md-6">
                 <Card imagesrc={element.url} clickimage={() => this.imageClick(element.id)} />
               </Col>
             ))
